@@ -3,7 +3,7 @@
 <h4> Concepts present: </h4>
 <ul>
   <li> Cassandra Introduction </li>
-  <li> Postgre Introduction </li>
-  <li> Data Normalisation in Postgre </li>
-  <li> Data De-Normalisation in Postgre </li>
+  <li> Postgres Introduction </li>
+  <li> Data Normalisation in Postgres </li>
+  <li> Data De-Normalisation in Postgres </li>
 </ul>
