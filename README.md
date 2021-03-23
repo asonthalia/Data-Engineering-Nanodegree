@@ -1,5 +1,4 @@
 # Udacity Data Engineering Nanodegree Excercises Repository
-Rough-work of the Udacity Data Engineering Nanodegree
 
 <h4> Concepts present: </h4>
 <ul>
