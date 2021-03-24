@@ -6,4 +6,5 @@
   <li> Postgres Introduction </li>
   <li> Data Normalisation in Postgres </li>
   <li> Data De-Normalisation in Postgres </li>
+  <li> Facts & Dimensions Table Creation with a Star Schema </li>
 </ul>
